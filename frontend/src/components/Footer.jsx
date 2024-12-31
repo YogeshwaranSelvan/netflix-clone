@@ -15,7 +15,7 @@ const Footer = () => {
                 </a>
                 . The source code is available on{" "}
                 <a 
-                    href="https://github.com/YogeshwaranSelvan"
+                    href="https://github.com/YogeshwaranSelvan/netflix-clone"
                     target="_blank"
                     className="font-medium underline underline-offset-4"
                 >
